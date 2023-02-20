@@ -1,0 +1,51 @@
+exercise,muscle_group,weight,num_sets,num_reps,calories_burned
+Bench Press,Chest,67,3,12,225
+Incline Bench Press,Chest,67,3,12,225
+Dumbbell Fly,Chest,67,3,12,110
+Cable Crossover,Chest,67,3,12,135
+Pushups,Chest,67,3,15,50
+Dumbbell Shoulder Press,Shoulders,67,3,12,125
+Arnold Press,Shoulders,67,3,12,125
+Lateral Raise,Shoulders,67,3,12,75
+Rear Delt Fly,Shoulders,67,3,12,75
+Dumbbell Front Raise,Shoulders,67,3,12,75
+Barbell Curl,Biceps,67,3,12,105
+Dumbbell Curl,Biceps,67,3,12,75
+Hammer Curl,Biceps,67,3,12,75
+Preacher Curl,Biceps,67,3,12,105
+Cable Tricep Extension,Triceps,67,3,12,105
+Skull Crusher,Triceps,67,3,12,105
+Dips,Triceps,67,3,15,50
+Rope Pushdown,Triceps,67,3,12,90
+Pullups,Back,67,3,12,80
+Lat Pulldown,Back,68,3,12,200
+Seated Cable Row,Back,68,3,12,200
+Bent Over Row,Back,68,3,12,200
+Deadlift,Back,68,3,10,400
+Squat,Legs,68,3,10,400
+Leg Press,Legs,68,3,12,350
+Lunges,Legs,68,3,12,125
+Calf Raise,Legs,68,3,15,150
+Crunches,Abs,68,3,20,50
+Plank,Abs,68,3,30,75
+Russian Twist,Abs,68,3,20,50
+Leg Raise,Abs,68,3,15,40
+Toe Touches,Abs,68,3,20,50
+Dumbbell Bench Press,Chest,69,3,12,190
+Incline Dumbbell Press,Chest,69,3,12,
+Bench Press,Chest,70,3,12,225
+Incline Bench Press,Chest,70,3,12,225
+Dumbbell Fly,Chest,70,3,12,110
+Cable Crossover,Chest,70,3,12,135
+Pushups,Chest,70,3,15,50
+Dumbbell Shoulder Press,Shoulders,70,3,12,125
+Arnold Press,Shoulders,70,3,12,125
+Lateral Raise,Shoulders,70,3,12,75
+Rear Delt Fly,Shoulders,70,3,12,75
+Dumbbell Front Raise,Shoulders,70,3,12,75
+Barbell Curl,Biceps,70,3,12,105
+Dumbbell Curl,Biceps,70,3,12,75
+Hammer Curl,Biceps,70,3,12,75
+Preacher Curl,Biceps,70,3,12,105
+Cable Tricep Extension,Triceps,70,3,12,105
+Skull Crusher,Triceps
