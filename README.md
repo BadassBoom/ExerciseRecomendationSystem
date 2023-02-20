@@ -97,6 +97,12 @@ plt.ylabel('Calories Burned')
 plt.show()
 ```
 
+## Example
+
+This code generates a line plot that shows the user's progress over time in terms of the calories burned. The **'plt.plot()'** function generates the line plot, using dates as the x-axis and calories_burned as the y-axis. The **'plt.title()'**, **'plt.xlabel()'**, and **'plt.ylabel()'** functions are used to add a title, x-axis label, and y-axis label to the plot, respectively.
+
+![Line plot that shows the user's progress over time in terms of the calories burned.](plot1.png "This is a sample image.")
+
 ## Note 
 
 The exercise dataset (exercise_data.csv) should contain the following columns:
